@@ -167,5 +167,6 @@ Of course, please cite the original paper of models you are using (You can find 
 
 ## Acknowledgements
 
-Thanks the original [neuraltalk2](https://github.com/karpathy/neuraltalk2) and awesome PyTorch team.#   I m a g e C a p t i o n F o r k  
+Thanks the original [neuraltalk2](https://github.com/karpathy/neuraltalk2) and awesome PyTorch team.#   I m a g e C a p t i o n F o r k 
+ 
  
