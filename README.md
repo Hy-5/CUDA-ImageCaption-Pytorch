@@ -1,6 +1,8 @@
-WIP - CUDA accelerated preprocessing module already implemented, but code cleanup, screenshots and benchmark to come.
+# PERSO WIP - CUDA accelerated preprocessing module already implemented, but code cleanup, screenshots and benchmark to come.
 
 Following is the original README from the forked repo (https://github.com/ruotianluo/self-critical.pytorch)
+
+
 
 
 # An Image Captioning codebase
